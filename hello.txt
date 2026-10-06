@@ -1,2 +1,3 @@
 Hello, software engineering!
 i am learning git
+I am building my skills step by step 
